@@ -1,0 +1,7 @@
+proj_id,title,required_skills,duration_months,priority
+201,GCP ETL Migration,GCP;Python;SQL,6,High
+202,Sales Dashboard Revamp,Power BI;SQL;Excel,3,Medium
+203,Backend Refactor,Java;Spring;AWS,4,High
+204,Customer Data Pipeline,Python;ETL;Airflow,5,High
+205,Containerization Project,DevOps;Docker;Kubernetes,2,Urgent
+206,Executive Reporting Suite,Tableau;Excel;SQL,4,Low

@@ -1,0 +1,7 @@
+emp_id,name,skills,experience_years,location
+101,Ravi Kumar,Python;GCP;BigQuery,3,Gurgaon
+102,Sneha Roy,SQL;Power BI;Excel,2,Bangalore
+103,Amit Sharma,Java;AWS;Spring,5,Mumbai
+104,Priya Desai,Python;ETL;Airflow,4,Hyderabad
+105,Ankit Verma,DevOps;Docker;Kubernetes,3,Pune
+106,Meena Iyer,Tableau;SQL;Excel,6,Chennai
